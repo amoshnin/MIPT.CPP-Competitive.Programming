@@ -30,7 +30,7 @@
 ## Course info:
 * __Name:__ Olympiad School of Competitive Programming (with C++)
 * __University:__ MIPT (Moscow Institute of Physics and Technology)
-* __Certifications:__ [https://drive.google.com/drive/u/2/folders/1ElgbDNItDzdosQP4tmEjPG1HkfBDq6iZ](Link to Google Drive)
+* __Certifications:__ (https://drive.google.com/drive/u/2/folders/1ElgbDNItDzdosQP4tmEjPG1HkfBDq6iZ)[Link to Google Drive]
 * __WWW:__ https://it-edu.com/mipt-school/zima/
 
 ## Supplementary Resources used:

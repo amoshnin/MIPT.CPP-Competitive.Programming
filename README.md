@@ -19,7 +19,7 @@
             <td rowspan=2>xxx</td>
             <td>xxx</td>
             <td>
-                <a href="www.google.com">Video</a>
+                <a href="www.google.com">Video</a> |
                 <a href="www.google.com">Theory</a>
             </td>
         </tr>

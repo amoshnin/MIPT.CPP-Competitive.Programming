@@ -1,4 +1,4 @@
-# MIPT (Moscow Institute of Physics and Technology) - Olympiad School of Competitive Programming (with C++)
+# MIPT - Olympiad School of Competitive Programming (with C++)
 
 My ... <br/>
 **Outcomes:** Studying at this school has allowed be to explore numerous algorithms, data structures and methods for solving competitive programming problems as well as learn concepts such as dynamic programming, algorithms of number theory, basics of computational
